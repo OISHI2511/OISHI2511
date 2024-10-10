@@ -1,0 +1,68 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOsF+fP3zX7ydlwbmYqWjG/",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/OISHI2511/OISHI2511/blob/main/word%20dividing%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def dividee(sentence,position):\n",
+        "  new = ''\n",
+        "  old=''\n",
+        "\n",
+        "  for i in range(0,len(sentence)):\n",
+        "    if (i !=0) and (i % position==0):\n",
+        "      old += sentence[i]\n",
+        "    else:\n",
+        "      new += sentence[i]\n",
+        "\n",
+        "  return new +  old\n",
+        "\n",
+        "s= input() ; p= int(input())\n",
+        "print(dividee(s,p))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "C-1KYMPVJ4jU",
+        "outputId": "befe499c-3867-4e98-f079-e2153a7416a4"
+      },
+      "execution_count": 11,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "baby girl is me\n",
+            "2\n",
+            "baygr smb ili e\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
