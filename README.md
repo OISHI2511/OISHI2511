@@ -34,20 +34,24 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.instagram.com/oish0.0/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:nazifa.tasnim1@g.bracu.ac.bd">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nazifa-tasnim/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/nazifa.oishi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/oish0.0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nazifa.tasnim1@g.bracu.ac.bd">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
