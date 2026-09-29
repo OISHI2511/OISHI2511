@@ -20,15 +20,14 @@
 
 ---
 
-## 🌱 About Me
-
-* 🔐 Currently learning **Cybersecurity**
-* 💻 Interested in **Programming, AI/ML & Cybersecurity**
-* 🐍 Working with **Python**
-* 🧠 Exploring **Cybersecurity, CTFs & problem solving**
-* 🎨 Also interested in **3D, graphics & creative technology**
-* 💬 Ask me about **anything!**
-* 📫 Reach me at **[nazifa.tasnim1@g.bracu.ac.bd](mailto:nazifa.tasnim1@g.bracu.ac.bd)**
+🌱 About Me
+💻 Passionate about Programming & Technology
+🎨 Interested in Graphic Design & Creative Technology
+🐍 Working with Python
+🧠 Exploring AI/ML & Software Development
+🖥️ Interested in 3D Design & Graphics
+💬 Ask me about anything!
+📫 Reach me at nazifa.tasnim1@g.bracu.ac.bd
 
 ---
 
@@ -76,33 +75,29 @@
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<table> <tr> <td width="50%">
 
-### 🐾 Pet Social Platform
+🐾 Pet Social Platform
 
-A social platform concept designed around **pets, adoption, posts and pet communities**.
+A social platform concept designed around pets, adoption, posts and pet communities.
 
-**Focus:** Web Development • Social Platform • Pet Tech
+Focus: Web Development • Social Platform • Pet Tech
 
 </td>
 
 <td width="50%">
 
-### 🔐 Cybersecurity Projects
+🎨 Areas of Interest
 
-A collection of my experiments and learning projects while exploring **cybersecurity, CTFs and security concepts**.
+<p align="center">
 
-**Focus:** Cybersecurity • CTF • Python • Linux
-
-</td>
-</tr>
-</table>
-
+<img src="https://img.shields.io/badge/Programming-111111?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Graphic%20Design-111111?style=for-the-badge&logo=adobe&logoColor=FF0000"/> <img src="https://img.shields.io/badge/3D%20Design-111111?style=for-the-badge&logo=blender&logoColor=F5792A"/> <img src="https://img.shields.io/badge/AI%2FML-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 > ⭐ More projects coming soon...
+</p>
+
+
 
 ---
 
@@ -147,15 +142,15 @@ A collection of my experiments and learning projects while exploring **cybersecu
 
 ---
 
-## 💻 Coding Activity
+🎨 Creative & Design Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oishi2511&layout=compact&hide_border=true&theme=tokyonight" alt="WakaTime Stats"/>
-</p>
+A collection of my work exploring graphic design, digital creativity, 3D design and visual projects.
 
----
+Focus: Graphic Design • 3D Design • Creative Technology
 
-<div align="center">
+</td> </tr> </table>
+
+⭐ More projects coming soon...
 
 ### ✨ Thanks for visiting my profile!
 
