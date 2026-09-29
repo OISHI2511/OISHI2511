@@ -32,23 +32,23 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nazifa-tasnim-059781276/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1Da2Sy8YVK/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55" height="55" alt="Facebook"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/oish0.0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nazifa.tasnim1@g.bracu.ac.bd">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="55" height="55" alt="Email"/>
   </a>
 </p>
 
