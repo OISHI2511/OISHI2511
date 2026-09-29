@@ -159,3 +159,8 @@ Focus: Graphic Design • 3D Design • Creative Technology
 </p>
 
 </div>
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oishi2511/OISHI2511/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
