@@ -17,7 +17,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,linux,arduino,blender,photoshop,illustrator,pytorch&perline=7" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,arduino,blender,photoshop,illustrator,pytorch&perline=7" /> </p>
 
 ### 🔐 Currently Exploring
 
