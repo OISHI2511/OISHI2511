@@ -70,9 +70,7 @@ Focus: Web Development • Social Platform • Pet Tech
 
 ### 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oishi2511/oishi2511/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<img src="./dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 ### 🏆 GitHub Trophies
 
