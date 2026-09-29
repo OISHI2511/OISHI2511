@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nazifa Tasnim
 
-### 💻 Programmer • 🔐 Cybersecurity Learner • 🇧🇩 Bangladesh
+### 💻 Programmer 
 
 <p>
   <a href="https://github.com/oishi2511">
