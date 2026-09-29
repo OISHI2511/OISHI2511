@@ -74,7 +74,7 @@ Focus: Web Development • Social Platform • Pet Tech
 
 ### 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=oishi2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/> </p>
+<p align="center"> <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 
 ### 🎨 Creative & Design Projects
 
