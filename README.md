@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nazifa-tasnim-059781276?utm_source=share_via&utm_content=profile&utm_medium=member_ios](https://www.linkedin.com/in/nazifa-tasnim-059781276?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-
 - 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **nazifa.tasnim1@g.bracu.ac.bd**
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oishi2511&show_icons=true&locale=en" alt="oishi2511" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oishi2511&" alt="oishi2511" /></p>
+
