@@ -1,6 +1,6 @@
 <div align="center">
 
-#Hello! I'm Nazifa Tasnim👋
+Hello! I'm Nazifa Tasnim👋
 
 🎓 Computer Science & Engineering student at BRAC University, Dhaka, Bangladesh
 
@@ -35,9 +35,7 @@
 
 🚀 Featured Projects
 
-<table> <tr>
-
-<td width="50%" valign="top">
+<table> <tr> <td width="50%">
 
 🐾 Pet Social Platform
 
@@ -47,7 +45,7 @@ Focus: Web Development • Social Platform • Pet Tech
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 🎨 Areas of Interest
 
@@ -59,32 +57,38 @@ Focus: Web Development • Social Platform • Pet Tech
 
 ⭐ More projects coming soon...
 
-</td>
-
-</tr> </table>
+</td> </tr> </table>
 
 📊 GitHub Analytics
 
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oishi2511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishi2511&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" /> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oishi2511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishi2511&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" /> </p>
 
 🔥 Contribution Streak
 
-<p align="left"> <img src="https://streak-stats.demolab.com/?user=oishi2511&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=oishi2511&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
 
 📈 Contribution Activity
 
-<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=oishi2511&theme=tokyo-night&hide_border=true&area=true&custom_title=Nazifa%27s%20Contribution%20Activity" alt="GitHub Activity Graph"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=oishi2511&theme=tokyo-night&hide_border=true&area=true&custom_title=Nazifa%27s%20Contribution%20Activity" alt="GitHub Activity Graph"/> </p>
 
 🐍 Contribution Graph
 
-<p align="left"> <img src="https://raw.githubusercontent.com/oishi2511/oishi2511/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/oishi2511/oishi2511/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
 
 🏆 GitHub Trophies
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=oishi2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=oishi2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/> </p>
+
+🎨 Creative & Design Projects
+
+A collection of my work exploring graphic design, digital creativity, 3D design and visual projects.
+
+Focus: Graphic Design • 3D Design • Creative Technology
+
+⭐ More projects coming soon...
 
 ✨ Thanks for visiting my profile!
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/> </p>
+<p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/> </p>
 
 </div>
