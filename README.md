@@ -66,7 +66,7 @@ Focus: Web Development • Social Platform • Pet Tech
 
 ### 📈 Contribution Activity
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=oishi2511&theme=tokyo-night&hide_border=true&area=true&custom_title=Nazifa%27s%20Contribution%20Activity" alt="GitHub Activity Graph"/> </p>
+<img src="./profile/activity-graph.svg" alt="GitHub Activity Graph"/>
 
 ### 🐍 Contribution Graph
 
