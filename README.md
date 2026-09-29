@@ -59,12 +59,7 @@ Focus: Web Development • Social Platform • Pet Tech
   <img height="180em" src="./profile/stats.svg" />
   <img height="180em" src="./profile/top-langs.svg" />
 </p>
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
-</p>
 
 ### 🔥 Contribution Streak
 
