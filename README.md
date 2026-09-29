@@ -1,35 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Nazifa Tasnim
 
-### 💻 Programmer 🪄 Graphic Designer
+# Hello! I'm Nazifa Tasnim👋
 
-<p>
-  <a href="https://github.com/oishi2511">
-    <img src="https://komarev.com/ghpvc/?username=oishi2511&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/oishi2511?tab=followers">
-    <img src="https://img.shields.io/github/followers/oishi2511?label=Followers&style=flat-square" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/oishi2511?tab=repositories">
-    <img src="https://img.shields.io/github/stars/oishi2511?label=Stars&style=flat-square" alt="GitHub Stars"/>
-  </a>
-</p>
+🎓 Computer Science & Engineering student at BRAC University, Dhaka, Bangladesh
 
-</div>
+💻 Passionate about problem solving, software development, building projects and research
 
----
+🧠 Exploring AI/ML & Cybersecurity
 
-🌱 About Me
-💻 Passionate about Programming & Technology
-🎨 Interested in Graphic Design & Creative Technology
-🐍 Working with Python
-🧠 Exploring AI/ML & Software Development
 🖥️ Interested in 3D Design & Graphics
-💬 Ask me about anything!
+
+🚀 Currently strengthening my programming fundamentals and learning new technologies through hands-on projects
+
 📫 Reach me at nazifa.tasnim1@g.bracu.ac.bd
 
+
+
 ---
+
 
 ## 🌐 Connect With Me
 
