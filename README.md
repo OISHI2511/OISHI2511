@@ -55,7 +55,10 @@ Focus: Web Development • Social Platform • Pet Tech
 
 ### 📊 GitHub Analytics
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oishi2511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishi2511&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" /> </p>
+<p align="center">
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
+</p>
 
 ### 🔥 Contribution Streak
 
