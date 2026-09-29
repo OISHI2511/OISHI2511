@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/nazifa.oishi" target="_blank">
+  <a href="[https://www.facebook.com/nazifa.oishi" target="_blank](https://www.facebook.com/share/1Da2Sy8YVK/?mibextid=wwXIfr)">
     <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
