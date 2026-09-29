@@ -1,6 +1,6 @@
 <div align="center">
 
-Hello! I'm Nazifa Tasnim👋
+# Hello! I'm Nazifa Tasnim👋
 
 🎓 Computer Science & Engineering student at BRAC University, Dhaka, Bangladesh
 
