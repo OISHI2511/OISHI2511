@@ -1,33 +1,33 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Commit Snake
-  uses: EndBug/add-and-commit@v9
-  with:
-    message: "Update contribution snake"
-    add: "dist/github-contribution-grid-snake.svg"
-    pull: "--rebase --autostash"
+    permissions:
+      contents: write
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          build_dir: dist
-          jekyll: false
-          build_commit: ${{ github.sha }}
-          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          repo: ${{ github.repository }}
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: oishi2511
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update contribution snake"
+          add: "dist/github-contribution-grid-snake.svg"
+          pull: "--rebase --autostash"
