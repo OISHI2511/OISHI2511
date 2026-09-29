@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nazifa Tasnim
 
-### 💻 Programmer 
+### 💻 Programmer 🪄 Graphic Designer
 
 <p>
   <a href="https://github.com/oishi2511">
