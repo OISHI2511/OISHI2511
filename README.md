@@ -35,24 +35,30 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nazifa-tasnim-059781276/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1Da2Sy8YVK/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55" height="55" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/oish0.0/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nazifa.tasnim1@g.bracu.ac.bd">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="55" height="55" alt="Email"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/nazifa-tasnim-059781276/" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="60" height="60" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/share/1Da2Sy8YVK/" target="_blank">
+<img src="https://img.icons8.com/color/96/facebook-new.png" width="60" height="60" alt="Facebook"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/oish0.0/" target="_blank">
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="60" height="60" alt="Instagram"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:nazifa.tasnim1@g.bracu.ac.bd">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="60" height="60" alt="Gmail"/>
+</a>
+
 </p>
-
-
 ---
 
 ## 🛠️ Languages & Tools
