@@ -12,7 +12,7 @@
 
 🚀 Currently strengthening my programming fundamentals and learning new technologies through hands-on projects
 
-📫 Reach me at nazifa.tasnim1@g.bracu.ac.bd
+📫 Reach me at nazifaoishi11@gmail.com
 
 
 ### 🛠️ Languages & Tools
