@@ -73,9 +73,6 @@ Focus: Web Development • Social Platform • Pet Tech
 
 <img src="./dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-### 🏆 GitHub Trophies
-
-<p align="center"> <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 
 ### 🎨 Creative & Design Projects
 
