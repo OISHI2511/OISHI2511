@@ -61,9 +61,6 @@ Focus: Web Development • Social Platform • Pet Tech
 </p>
 
 
-### 🔥 Contribution Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=oishi2511&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
 
 ### 📈 Contribution Activity
 
